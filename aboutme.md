@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Michael Son.
+My name is Jin Young Son. I also go by Michael. Here are some things that I love:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Cool Techs
+- Good food and craft beer
+- Basketball and soccer
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm from South Korea, and went to Bowdoin College in Brunswick, ME. Worked at a startup in Boston for a year as an iOS developer. Now I'm in Irvine, CA for several months, studying AI and doing a project of my own.
